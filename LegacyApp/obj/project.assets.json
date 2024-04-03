@@ -8,24 +8,26 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/pgago/.nuget/packages/": {}
+    "C:\\Users\\przem\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/pgago/Projects/PJATK/classes-materials/APBD/lecture_3/zadanie/LegacyApp/LegacyApp.csproj",
+      "projectUniqueName": "C:\\Users\\przem\\Source\\Repos\\APBD-Zadanie-2\\LegacyApp\\LegacyApp.csproj",
       "projectName": "LegacyApp",
-      "projectPath": "/Users/pgago/Projects/PJATK/classes-materials/APBD/lecture_3/zadanie/LegacyApp/LegacyApp.csproj",
-      "packagesPath": "/Users/pgago/.nuget/packages/",
-      "outputPath": "/Users/pgago/Projects/PJATK/classes-materials/APBD/lecture_3/zadanie/LegacyApp/obj/",
+      "projectPath": "C:\\Users\\przem\\Source\\Repos\\APBD-Zadanie-2\\LegacyApp\\LegacyApp.csproj",
+      "packagesPath": "C:\\Users\\przem\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\przem\\Source\\Repos\\APBD-Zadanie-2\\LegacyApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/pgago/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\przem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -38,6 +40,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -59,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
