@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\przem\\Source\\Repos\\APBD-Zadanie-2\\LegacyApp\\LegacyApp.csproj": {}
+    "C:\\Users\\przem\\Source\\Repos\\APBD-Zadanie-2.1\\LegacyApp\\LegacyApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\przem\\Source\\Repos\\APBD-Zadanie-2\\LegacyApp\\LegacyApp.csproj": {
+    "C:\\Users\\przem\\Source\\Repos\\APBD-Zadanie-2.1\\LegacyApp\\LegacyApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\przem\\Source\\Repos\\APBD-Zadanie-2\\LegacyApp\\LegacyApp.csproj",
+        "projectUniqueName": "C:\\Users\\przem\\Source\\Repos\\APBD-Zadanie-2.1\\LegacyApp\\LegacyApp.csproj",
         "projectName": "LegacyApp",
-        "projectPath": "C:\\Users\\przem\\Source\\Repos\\APBD-Zadanie-2\\LegacyApp\\LegacyApp.csproj",
+        "projectPath": "C:\\Users\\przem\\Source\\Repos\\APBD-Zadanie-2.1\\LegacyApp\\LegacyApp.csproj",
         "packagesPath": "C:\\Users\\przem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\przem\\Source\\Repos\\APBD-Zadanie-2\\LegacyApp\\obj\\",
+        "outputPath": "C:\\Users\\przem\\Source\\Repos\\APBD-Zadanie-2.1\\LegacyApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\przem\\AppData\\Roaming\\NuGet\\NuGet.Config",

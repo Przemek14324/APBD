@@ -22,3 +22,15 @@ C:\Users\przem\Source\Repos\APBD-Zadanie-2\LegacyApp\bin\Debug\net8.0\LegacyApp.
 C:\Users\przem\Source\Repos\APBD-Zadanie-2\LegacyApp\bin\Debug\net8.0\LegacyApp.dll
 C:\Users\przem\Source\Repos\APBD-Zadanie-2\LegacyApp\bin\Debug\net8.0\LegacyApp.pdb
 C:\Users\przem\Source\Repos\APBD-Zadanie-2\LegacyApp\obj\Debug\net8.0\ref\LegacyApp.dll
+C:\Users\przem\Source\Repos\APBD-Zadanie-2.1\LegacyApp\bin\Debug\net8.0\LegacyApp.deps.json
+C:\Users\przem\Source\Repos\APBD-Zadanie-2.1\LegacyApp\bin\Debug\net8.0\LegacyApp.dll
+C:\Users\przem\Source\Repos\APBD-Zadanie-2.1\LegacyApp\bin\Debug\net8.0\LegacyApp.pdb
+C:\Users\przem\Source\Repos\APBD-Zadanie-2.1\LegacyApp\obj\Debug\net8.0\LegacyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\przem\Source\Repos\APBD-Zadanie-2.1\LegacyApp\obj\Debug\net8.0\LegacyApp.AssemblyInfoInputs.cache
+C:\Users\przem\Source\Repos\APBD-Zadanie-2.1\LegacyApp\obj\Debug\net8.0\LegacyApp.AssemblyInfo.cs
+C:\Users\przem\Source\Repos\APBD-Zadanie-2.1\LegacyApp\obj\Debug\net8.0\LegacyApp.csproj.CoreCompileInputs.cache
+C:\Users\przem\Source\Repos\APBD-Zadanie-2.1\LegacyApp\obj\Debug\net8.0\LegacyApp.sourcelink.json
+C:\Users\przem\Source\Repos\APBD-Zadanie-2.1\LegacyApp\obj\Debug\net8.0\LegacyApp.dll
+C:\Users\przem\Source\Repos\APBD-Zadanie-2.1\LegacyApp\obj\Debug\net8.0\refint\LegacyApp.dll
+C:\Users\przem\Source\Repos\APBD-Zadanie-2.1\LegacyApp\obj\Debug\net8.0\LegacyApp.pdb
+C:\Users\przem\Source\Repos\APBD-Zadanie-2.1\LegacyApp\obj\Debug\net8.0\ref\LegacyApp.dll

@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\przem\\Source\\Repos\\APBD-Zadanie-2\\LegacyAppConsumer\\LegacyAppConsumer.csproj",
+      "projectUniqueName": "C:\\Users\\przem\\Source\\Repos\\APBD-Zadanie-2.1\\LegacyAppConsumer\\LegacyAppConsumer.csproj",
       "projectName": "LegacyAppConsumer",
-      "projectPath": "C:\\Users\\przem\\Source\\Repos\\APBD-Zadanie-2\\LegacyAppConsumer\\LegacyAppConsumer.csproj",
+      "projectPath": "C:\\Users\\przem\\Source\\Repos\\APBD-Zadanie-2.1\\LegacyAppConsumer\\LegacyAppConsumer.csproj",
       "packagesPath": "C:\\Users\\przem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\przem\\Source\\Repos\\APBD-Zadanie-2\\LegacyAppConsumer\\obj\\",
+      "outputPath": "C:\\Users\\przem\\Source\\Repos\\APBD-Zadanie-2.1\\LegacyAppConsumer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\przem\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\przem\\Source\\Repos\\APBD-Zadanie-2\\LegacyApp\\LegacyApp.csproj": {
-              "projectPath": "C:\\Users\\przem\\Source\\Repos\\APBD-Zadanie-2\\LegacyApp\\LegacyApp.csproj"
+            "C:\\Users\\przem\\Source\\Repos\\APBD-Zadanie-2.1\\LegacyApp\\LegacyApp.csproj": {
+              "projectPath": "C:\\Users\\przem\\Source\\Repos\\APBD-Zadanie-2.1\\LegacyApp\\LegacyApp.csproj"
             }
           }
         }
